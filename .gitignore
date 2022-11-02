@@ -1,0 +1,13 @@
+*.pyc
+*.pth
+*.pdf
+*.pkl
+*.log
+.idea
+.idea/
+.DS_Store/
+.DS_Store
+logs/
+_results/
+outputs/
+_runs/
